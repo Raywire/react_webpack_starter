@@ -1,0 +1,1 @@
+This is a boiler plate for creating a react app using webpack
